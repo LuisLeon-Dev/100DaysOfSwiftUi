@@ -153,8 +153,8 @@ enum Weekday2 {
     case monday, tuesday, wednesday, thursday, friday
 }
 
-var day = Weekday2.monday
-day = .tuesday
-day = .friday
+var day2 = Weekday2.monday
+day2 = .tuesday
+day2 = .friday
 
 
